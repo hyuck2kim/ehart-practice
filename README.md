@@ -1,1 +1,2 @@
-node server.js
+# 실행법
+`node server.js`
